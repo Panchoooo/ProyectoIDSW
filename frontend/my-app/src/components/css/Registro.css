@@ -1,0 +1,28 @@
+.form-control{
+
+  background-color: rgb(231, 231, 231);
+  border-radius: 10px;
+}
+#formLogin{
+
+  line-height: 25px;
+  text-align: center;
+
+}
+#txt{
+  
+  font-size:16px;
+  color : rgb(117, 117, 117);
+
+  
+}
+#titulo{
+
+  line-height: 25px;
+  text-align: center;
+}
+
+#btncnl{
+  margin-right: 40px;
+
+}
